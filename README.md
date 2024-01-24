@@ -36,4 +36,4 @@ This repository contains the code and resources for creating a dynamic dashboard
 To explore the dynamic dashboard and reports, clone this repository.
 
 ```bash
-git clone https://github.com/uaryan29/Wallmart-Dynamic-dashboard.git
+project link - (https://docs.google.com/spreadsheets/d/1xEMO1v-hvswzyaDUuACj-JE6NwLaViQm/edit?usp=drive_link&ouid=104534778390119569141&rtpof=true&sd=true)https://docs.google.com/spreadsheets/d/1xEMO1v-hvswzyaDUuACj-JE6NwLaViQm/edit?usp=drive_link&ouid=104534778390119569141&rtpof=true&sd=true
